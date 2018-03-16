@@ -1,0 +1,25 @@
+JAva Collection :-
+
+1)
+Interfaces  ::   Classes
+
+Iterable
+Collection
+List        :: ArrayList, LinkedList, Vector   :: Stack extends Vector
+Queue       :: Priority Queue                  :: Deque Implements Queue
+Deque       :: LinkedList, ArrayDeque
+Set         :: HashSet, LinkedHashSet          :: SortedSet
+SortedSet   :: TreeSet
+
+
+Classes - HashMap, HashTable
+Interfaces - Iterator , Enumeration
+Comparable And Comparator
+HashCode Method
+Java COllection and Java Collections
+
+
+
+
+
+

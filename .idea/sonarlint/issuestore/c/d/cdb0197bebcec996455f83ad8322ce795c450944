@@ -1,0 +1,69 @@
+
+.squid:S2178"Correct this "&" to "&&".(æÆ¢¹
+@squid:S1659"&Declare "quantity" on a separate line.(‹æÖèøÿÿÿÿ
+9squid:S1659"$Declare "author" on a separate line.(ÜĞÑ“
+<squid:S1659"'Declare "publisher" on a separate line.(ÜĞÑ“
+=squid:S1659"#Declare "marks" on a separate line.(îš°üÿÿÿÿ
+9squid:S1659"$Declare "school" on a separate line.(§’™Ş
+Rsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+[squid:S1192"FDefine a constant instead of duplicating this literal "hello" 3 times.(»Õ”
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú–Èüÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Šîº†
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ãó•
+Dsquid:S1444"*Make this "public static list" field final(Ú–Èüÿÿÿÿ
+@squid:S1444"+Make this "public static list2" field final(Šîº†
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(‡”ßûÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(Åˆ‰‚ûÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(Òèİ©ùÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(™¡îÍ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(»Õ”
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(†º©²
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(Çíšå
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(†ø÷Ê
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÆÃÜÿÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(œ«©Şúÿÿÿÿ
+N
+squid:S106";Replace this usage of System.out or System.err by a logger.(´ÒÛ>
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(‹ûÁˆ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(‰‡÷„
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(º¼†ô
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(İ˜½…ùÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(³­­æşÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(şã¦Ñ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ñ¸óóøÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(‘¨»‘
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(°˜ë†øÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÃÁ¸ì
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ˆ¢Ûßüÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(û˜şÿÿÿÿ
+„squid:S2681"oOnly the first line of this 2-line block will be executed conditionally. The rest will execute unconditionally.(æÆ¢¹
+>squid:S1481")Remove this unused "find" local variable.(Ë¼ı
+Osquid:S1118":Add a private constructor to hide the implicit public one.(ùèŒÌ
+fsquid:S2275"Q%n should be used in place of \n to produce the platform-specific line separator.(»Õ”
+fsquid:S2275"Q%n should be used in place of \n to produce the platform-specific line separator.(†º©²
+7squid:S2386"Make this member "protected".(Ú–Èüÿÿÿÿ
+2squid:S2386"Make this member "protected".(Šîº†
+9squid:S2114"%Remove or correct this "addAll" call.(‹š®
